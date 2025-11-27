@@ -2,10 +2,10 @@ rank,title,year,rating,url
 1,The Shawshank Redemption,1994,9.3,https://www.imdb.com/title/tt0111161/?ref_=chttp_i_1
 2,The Godfather,1972,9.2,https://www.imdb.com/title/tt0068646/?ref_=chttp_i_2
 3,The Dark Knight,2008,9.1,https://www.imdb.com/title/tt0468569/?ref_=chttp_i_3
-4,The Godfather Part II,1974,9.0,https://www.imdb.com/title/tt0071562/?ref_=chttp_i_4
-5,12 Angry Men,1957,9.0,https://www.imdb.com/title/tt0050083/?ref_=chttp_i_5
-6,The Lord of the Rings: The Return of the King,2003,9.0,https://www.imdb.com/title/tt0167260/?ref_=chttp_i_6
-7,Schindler's List,1993,9.0,https://www.imdb.com/title/tt0108052/?ref_=chttp_i_7
+4,The Godfather Part II,1974,9,https://www.imdb.com/title/tt0071562/?ref_=chttp_i_4
+5,12 Angry Men,1957,9,https://www.imdb.com/title/tt0050083/?ref_=chttp_i_5
+6,The Lord of the Rings: The Return of the King,2003,9,https://www.imdb.com/title/tt0167260/?ref_=chttp_i_6
+7,Schindler's List,1993,9,https://www.imdb.com/title/tt0108052/?ref_=chttp_i_7
 8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,https://www.imdb.com/title/tt0120737/?ref_=chttp_i_8
 9,Pulp Fiction,1994,8.8,https://www.imdb.com/title/tt0110912/?ref_=chttp_i_9
 10,"The Good, the Bad and the Ugly",1966,8.8,https://www.imdb.com/title/tt0060196/?ref_=chttp_i_10
@@ -230,7 +230,7 @@ rank,title,year,rating,url
 229,A Silent Voice: The Movie,2016,8.2,https://www.imdb.com/title/tt5323662/?ref_=chttp_i_229
 230,Platoon,1986,8.1,https://www.imdb.com/title/tt0091763/?ref_=chttp_i_230
 231,Before Sunset,2004,8.1,https://www.imdb.com/title/tt0381681/?ref_=chttp_i_231
-232,The Incredibles,2004,8.0,https://www.imdb.com/title/tt0317705/?ref_=chttp_i_232
+232,The Incredibles,2004,8,https://www.imdb.com/title/tt0317705/?ref_=chttp_i_232
 233,The Exorcist,1973,8.1,https://www.imdb.com/title/tt0070047/?ref_=chttp_i_233
 234,Hachi: A Dog's Tale,2009,8.1,https://www.imdb.com/title/tt1028532/?ref_=chttp_i_234
 235,Rush,2013,8.1,https://www.imdb.com/title/tt1979320/?ref_=chttp_i_235
